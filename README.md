@@ -2,6 +2,8 @@
 
 Проверка на существование ID/Username в любом веб-сервисе.
 
+![](https://i.imgur.com/LHu7PfJ.png)
+
 ## v1.0
 [ [Скачать](https://github.com/aethletic/username-exist-checker/archive/1.0.zip) | [Virustotal](https://www.virustotal.com/gui/file/d733e754cc5e0c1c5f5b1be27f6c2ecf4641668d8296633092ad6b71eee6da66/detection) ]
 
